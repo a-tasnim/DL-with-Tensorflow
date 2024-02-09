@@ -1,0 +1,8 @@
+Day1 Practice--->
+--MNIST dataset
+--Data load
+--Data-split
+--Normalize
+--Create model
+--Compile model
+--Evaluate Model
